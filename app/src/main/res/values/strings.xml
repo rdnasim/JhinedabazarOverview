@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jhinedabazar Overview</string>
+    <string name="address">Address :
+    N7,Jhenaidah
+    Jhenida,Dhaka
+        Bangladesh 7300</string>
+    <string name="discription">Description:
+        Shopping Service in Jhenida, Dhaka, Bangladesh</string>
+    <string name="Hours_of_operation">Hours of operation:
+        From Monday to Friday 9:00 a.m. to 11:00 p.m.</string>
+</resources>
