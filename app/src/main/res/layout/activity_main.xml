@@ -92,7 +92,7 @@
             android:layout_toRightOf="@id/phone_no"
             android:layout_margin="10sp"
             android:textColor="#121f2d"
-            android:layout_below="@id/email_address"/>
+            android:layout_below="@id/email_address" />
     </RelativeLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -125,6 +125,7 @@
         android:layout_margin="5sp"
         android:textSize="18sp"
         android:textColor="#04304b"
-        android:fontFamily="sans-serif-bold"/>
+        android:fontFamily="sans-serif-bold"
+        />
     </LinearLayout>
 </RelativeLayout>
